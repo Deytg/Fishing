@@ -1,0 +1,33 @@
+body {
+	background: url(https://img5.goodfon.ru/wallpaper/nbig/7/76/rybalka-udochka-poplavok-kriuchki-rybki-gruzila-leska-fon.jpg);
+	font-family: sans-serif;
+	background-attachment: fixed;
+	font-size: 24px;
+    color: white;
+}
+
+.c5 {
+	width: 150px;
+	height: 81px;
+    display: block
+}
+ b {
+ 	font-size: 30px;
+ 	color: grey;
+ }
+ 
+ .d4 {
+ 	width: 300px;
+ 	height: 205px;
+    display: block
+ }
+ a {
+ 	border: 1px solid royalblue;
+ 	background-color: royalblue;
+ 	color: white;
+    text-decoration: none;
+    padding: 20px;
+ }
+ img {
+    display: block;
+ }
